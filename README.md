@@ -1,1 +1,1 @@
-# PassAnalyzer
+# It is a password analyzer, a handy tool that checks how strong your password is. It looks at things like the length of the password and whether it has uppercase letters, lowercase letters, numbers, and special characters. Based on these criteria, it sorts passwords into categories like "weak," "moderate," or "strong." Using a password analyzer can help you create more secure passwords, which is important for keeping your online accounts safe from unauthorized access.
